@@ -1,0 +1,6 @@
+Для успешной работы устройства
+
+git init
+git add waterlog.txt
+git config remote.origin.url https://AlexanderNest:81951619Sasha@github.com/AlexanderNest/AutomaticFeeder.git
+git push -u origin master
