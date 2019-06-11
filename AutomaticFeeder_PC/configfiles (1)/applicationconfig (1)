@@ -1,0 +1,7 @@
+feedfrequency:4
+feedweight:150
+feedsupply:По времени
+showfeed:true
+showwater:true
+autocontrolling:false
+countofwater:125

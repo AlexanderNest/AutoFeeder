@@ -1,0 +1,18 @@
+для компиляции из дизайнера
+pyuic5 design/maindesign.ui -o compiled_design/compiledmain.py 
+
+Файлы python
+
+design.py - основное окно
+main.py - запускает программу
+
+Файлы форм QT
+
+firstwindow.ui - окно начальных настроек о животном
+form.ui - главное окно
+
+
+/compiled_design
+    - compiledmain.py - код главного окна
+    - compiledsettings.py - код окна настроек
+    
